@@ -1,1 +1,2 @@
 # Product-Review-Authenticator
+An application that evaluates the authenticity of product reviews in e-commerce websites. It leverages <u>Sentiment Analysis</u> using the highly the sofisticated BERT model to analyse the satisfaction level of the customer from the text review and compares it with the star-ratings provided by the customer on a particular product to verify if the review submitted by customer is genuine.
